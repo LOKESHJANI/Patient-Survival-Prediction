@@ -34,9 +34,8 @@ Ethnicity, APACHE II Score, and Glasgow Coma Scale (GCS) were top predictors.
 Advanced feature selection boosted model performance.
 
 📁 Project Structure
-bash
-Copy
-Edit
+
+
 ├── data/
 │   └── mit_gossis_dataset.csv
 ├── notebooks/
